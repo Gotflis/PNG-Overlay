@@ -51,17 +51,25 @@ Quickly find reference images by filename. Search results update as you type.
 
 ### Settings & Customization
 
-Customize PNG Overlay to fit your workflow. Choose from five interface languages, configure keyboard shortcuts, and control whether global hotkeys remain active when the control panel is hidden.
+Customize PNG Overlay to match your workflow.
 
-#### General Settings
+#### Global Hotkeys
 
-![PNG Overlay General Settings](settings-general.png)
+Keep keyboard shortcuts active even when the control panel is hidden.
 
-#### Languages & Keyboard Shortcuts
+![Global Hotkeys Settings](settings-general.png)
 
-| Five Interface Languages | Customizable Keyboard Shortcuts |
-|:---:|:---:|
-| ![Supported Languages](settings-languages.png) | ![Keyboard Shortcuts](settings-hotkeys.png) |
+#### Five Interface Languages
+
+Switch between English, Russian, Ukrainian, Simplified Chinese, and Brazilian Portuguese.
+
+![Supported Languages](settings-languages.png)
+
+#### Customizable Keyboard Shortcuts
+
+Assign your preferred shortcuts for common actions.
+
+![Keyboard Shortcuts](settings-hotkeys.png)
 
 ## Installation
 
