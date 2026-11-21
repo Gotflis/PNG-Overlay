@@ -45,7 +45,7 @@ Display multiple reference images directly above your creative workspace without
 
 Quickly find reference images by filename. Search results update as you type.
 
-| Search Example 1 | Search Example 2 |
+| Before Search | After Search | 
 |:---:|:---:|
 | ![Library search example 1](library-search-1.png) | ![Library search example 2](library-search-2.png) |
 ## Installation
