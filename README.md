@@ -41,6 +41,13 @@ Display multiple reference images directly above your creative workspace without
 
 ![PNG Overlay running with Aseprite](image-overlay.png)
 
+### Library Search
+
+Quickly find reference images by filename. Search results update as you type.
+
+| Search Example 1 | Search Example 2 |
+|:---:|:---:|
+| ![Library search example 1](library-search-1.png) | ![Library search example 2](library-search-2.png) |
 ## Installation
 
 The first public release is currently being prepared.
