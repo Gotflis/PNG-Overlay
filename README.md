@@ -1,3 +1,5 @@
+![PNG Overlay — Official Banner](banner.png)
+
 # PNG Overlay
 
 **Keep your references in sight. Create without interruptions.**
