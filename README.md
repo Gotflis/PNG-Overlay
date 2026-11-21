@@ -33,6 +33,14 @@ Keep reference images visible above your workspace without constantly switching 
 🇨🇳 简体中文  
 🇧🇷 Português (Brasil)
 
+## Screenshots
+
+### PNG Overlay in Action
+
+Display multiple reference images directly above your creative workspace without switching between windows.
+
+![PNG Overlay running with Aseprite](image-overlay.png)
+
 ## Installation
 
 The first public release is currently being prepared.
