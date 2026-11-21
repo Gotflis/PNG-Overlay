@@ -48,6 +48,21 @@ Quickly find reference images by filename. Search results update as you type.
 | Before Search | After Search | 
 |:---:|:---:|
 | ![Library search example 1](library-search-1.png) | ![Library search example 2](library-search-2.png) |
+
+### Settings & Customization
+
+Customize PNG Overlay to fit your workflow. Choose from five interface languages, configure keyboard shortcuts, and control whether global hotkeys remain active when the control panel is hidden.
+
+#### General Settings
+
+![PNG Overlay General Settings](settings-general.png)
+
+#### Languages & Keyboard Shortcuts
+
+| Five Interface Languages | Customizable Keyboard Shortcuts |
+|:---:|:---:|
+| ![Supported Languages](settings-languages.png) | ![Keyboard Shortcuts](settings-hotkeys.png) |
+
 ## Installation
 
 The first public release is currently being prepared.
