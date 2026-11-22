@@ -57,19 +57,19 @@ Customize PNG Overlay to match your workflow.
 
 Keep keyboard shortcuts active even when the control panel is hidden.
 
-![Global Hotkeys Settings](settings-general.png)
+<img src="settings-general.png" alt="Global Hotkeys Settings" width="650">
 
 #### Five Interface Languages
 
 Switch between English, Russian, Ukrainian, Simplified Chinese, and Brazilian Portuguese.
 
-![Supported Languages](settings-languages.png)
+<img src="settings-languages.png" alt="Supported Languages" width="650">
 
 #### Customizable Keyboard Shortcuts
 
 Assign your preferred shortcuts for common actions.
 
-![Keyboard Shortcuts](settings-hotkeys.png)
+<img src="settings-hotkeys.png" alt="Keyboard Shortcuts" width="650">
 
 ## Installation
 
