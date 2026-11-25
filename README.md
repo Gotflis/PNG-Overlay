@@ -9,6 +9,7 @@
 ![Languages](https://img.shields.io/badge/Languages-11-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Price](https://img.shields.io/badge/Price-Free-purple)
+![Downloads](https://img.shields.io/github/downloads/Gotflis/PNG-Overlay/total?label=Downloads&color=7C3AED)
 <p align="center">
   <a href="https://github.com/Gotflis/PNG-Overlay/releases/latest">
     <img src="https://img.shields.io/badge/DOWNLOAD%20PNG%20OVERLAY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download PNG Overlay" width="320">
