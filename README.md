@@ -25,13 +25,25 @@ Keep reference images visible above your workspace without constantly switching 
 - **Click-through mode** — Interact with applications behind reference images.
 - **Multilingual interface** — Choose from five supported languages.
 
-## Supported Languages
+## 🌍 Supported Languages
 
-🇬🇧 English  
-🇷🇺 Русский  
-🇺🇦 Українська  
-🇨🇳 简体中文  
-🇧🇷 Português (Brasil)
+PNG Overlay supports 11 interface languages:
+
+- 🇬🇧 English
+- 🇺🇦 Українська
+- 🇷🇺 Русский
+- 🇨🇳 简体中文
+- 🇧🇷 Português (Brasil)
+- 🇯🇵 日本語
+- 🇪🇸 Español
+- 🇰🇷 한국어
+- 🇩🇪 Deutsch
+- 🇫🇷 Français
+- 🇵🇱 Polski
+
+PNG Overlay automatically detects your system language on first launch. If your system language is not supported, English will be used by default.
+
+You can manually change the interface language at any time in Settings.
 
 ## Screenshots
 
@@ -71,15 +83,62 @@ Assign your preferred shortcuts for common actions.
 
 <img src="settings-hotkeys.png" alt="Keyboard Shortcuts" width="650">
 
-## Installation
+## 💻 System Requirements
 
-The first public release is currently being prepared.
+- Windows 10 / Windows 11 (64-bit)
+- No additional software required
 
-Once testing is complete, the Windows installer will be available in the **Releases** section.
+PNG Overlay is designed for Windows desktop environments.
 
-## Feedback
+## 📥 Installation
 
-Found a bug or have a suggestion? Feel free to open an issue in this repository after the public release.
+1. Open the [Releases](https://github.com/Gotflis/PNG-Overlay/releases/latest) page.
+2. Download `PNG-Overlay-Setup-3.2.1.exe`.
+3. Run the installer.
+4. Follow the installation instructions.
+5. Launch PNG Overlay and enjoy!
+
+PNG Overlay is distributed as a ready-to-use Windows application. No Python installation or additional dependencies are required.
+
+## 🗑️ Uninstallation & User Data
+
+PNG Overlay uses two separate folders:
+
+- **Installation folder:** Contains the application and its uninstaller. The location is selected during installation.
+- **User data folder:** `%USERPROFILE%\AppData\Roaming\PNGOverlay`
+
+The standard uninstaller removes the application but preserves the user data folder, allowing you to restore your settings and saved collections after reinstalling.
+
+### Complete removal
+
+If you want to completely remove PNG Overlay and all associated user data:
+
+1. Uninstall PNG Overlay through Windows Settings.
+2. Press `Win + R`.
+3. Enter `%USERPROFILE%\AppData\Roaming`.
+4. Locate and manually delete the `PNGOverlay` folder.
+
+**Warning:** Deleting this folder permanently removes saved settings, keyboard shortcuts, collections, reference library data and images saved from the clipboard.
+
+Keep this folder if you plan to reinstall the application in the future.
+
+## 💬 Feedback & Support
+
+Found a bug, encountered a performance issue, noticed a translation error, or have an idea for a new feature?
+
+Feel free to open an [issue on GitHub](https://github.com/Gotflis/PNG-Overlay/issues).
+
+When reporting a bug, please include:
+
+- PNG Overlay version
+- Windows version
+- Description of the issue
+- Steps to reproduce the issue
+- Screenshots, if available
+
+Your feedback helps improve PNG Overlay and makes it better for everyone.
+
+Thank you for your support! 💜
 
 ---
 
