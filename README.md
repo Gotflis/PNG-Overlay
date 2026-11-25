@@ -9,9 +9,13 @@
 ![Languages](https://img.shields.io/badge/Languages-11-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Price](https://img.shields.io/badge/Price-Free-purple)
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-7C3AED?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Gotflis/PNG-Overlay/releases/latest)
-
-*Free · Windows 64-bit · 11 languages*
+<p align="center">
+  <a href="https://github.com/Gotflis/PNG-Overlay/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20PNG%20OVERLAY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download PNG Overlay" width="320">
+  </a>
+  <br>
+  <sub>Windows x64 · Free</sub>
+</p>
 
 ## About
 
