@@ -4,10 +4,11 @@
 
 **Keep your references in sight. Create without interruptions.**
 
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D4)
-![Version](https://img.shields.io/badge/Version-3.1.0-8B5CF6)
-![Languages](https://img.shields.io/badge/Languages-5-22C55E)
-![Status](https://img.shields.io/badge/Status-Testing-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Version](https://img.shields.io/badge/Version-3.2.1-purple)
+![Languages](https://img.shields.io/badge/Languages-11-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Price](https://img.shields.io/badge/Price-Free-purple)
 
 ## About
 
@@ -23,7 +24,8 @@ Keep reference images visible above your workspace without constantly switching 
 - **Image library and sets** — Organize references for different projects.
 - **Customizable hotkeys** — Control your workspace quickly.
 - **Click-through mode** — Interact with applications behind reference images.
-- **Multilingual interface** — Choose from five supported languages.
+- **Multilingual interface** — Choose from 11 supported languages.
+- **Automatic language detection** — Automatically selects your system language on first launch.
 
 ## 🌍 Supported Languages
 
@@ -71,9 +73,11 @@ Keep keyboard shortcuts active even when the control panel is hidden.
 
 <img src="settings-general.png" alt="Global Hotkeys Settings" width="650">
 
-#### Five Interface Languages
+#### Eleven Interface Languages
 
-Switch between English, Russian, Ukrainian, Simplified Chinese, and Brazilian Portuguese.
+Choose from 11 supported interface languages.
+PNG Overlay automatically detects your system
+language on first launch.
 
 <img src="settings-languages.png" alt="Supported Languages" width="650">
 
