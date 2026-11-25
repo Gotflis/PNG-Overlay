@@ -5,7 +5,7 @@
 **Keep your references in sight. Create without interruptions.**
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Version](https://img.shields.io/badge/Version-3.2.1-purple)
+![Version](https://img.shields.io/badge/Version-3.2.2-purple)
 ![Languages](https://img.shields.io/badge/Languages-11-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Price](https://img.shields.io/badge/Price-Free-purple)
@@ -106,7 +106,7 @@ PNG Overlay is designed for Windows desktop environments.
 ## 📥 Installation
 
 1. Open the [Releases](https://github.com/Gotflis/PNG-Overlay/releases/latest) page.
-2. Download `PNG-Overlay-Setup-3.2.1.exe`.
+2. Download `PNG-Overlay-Setup-3.2.2.exe`.
 3. Run the installer.
 4. Follow the installation instructions.
 5. Launch PNG Overlay and enjoy!
