@@ -2,7 +2,7 @@
 name: Translation Issue
 about: Report incorrect or missing translations.
 title: "[TRANSLATION]"
-labels: ''
+labels: translation
 assignees: ''
 
 ---
