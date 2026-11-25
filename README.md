@@ -10,6 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Price](https://img.shields.io/badge/Price-Free-purple)
 ![Downloads](https://img.shields.io/github/downloads/Gotflis/PNG-Overlay/total?label=Downloads&color=7C3AED)
+[![License](https://img.shields.io/badge/License-Freeware-7C3AED)](LICENSE)
 <p align="center">
   <a href="https://github.com/Gotflis/PNG-Overlay/releases/latest">
     <img src="https://img.shields.io/badge/DOWNLOAD%20PNG%20OVERLAY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download PNG Overlay" width="320">
@@ -151,6 +152,16 @@ When reporting a bug, please include:
 Your feedback helps improve PNG Overlay and makes it better for everyone.
 
 Thank you for your support! 💜
+
+## 📜 License
+
+PNG Overlay is proprietary freeware.
+
+- Free for personal and commercial use.
+- Redistribution of the original, unmodified installer is permitted free of charge.
+- All rights to the original application code are reserved by Gotflis.
+
+For full license terms, see the [PNG Overlay Freeware License](LICENSE).
 
 ---
 
